@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dishasaini2002
 - 👀 I’m interested in android devloper to create a android apps...
-- 🌱 I’m currently learning bechlore of computer science...
+
 
 
 <!---
